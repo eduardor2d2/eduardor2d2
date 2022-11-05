@@ -1,9 +1,9 @@
 ### Óla 👋
 
 
-- 🔭 Professor de Física e Ciências
-- freelancer desenvolvimento WEB
-- 🌱 Estudante de Bioinformática 
+-🔭 Professor de Física e Ciências
+-🔭desenvolvimento WEB
+-🌱 Estudante de Bioinformática 
 
 
 <div style="display: inline_block"><br>
